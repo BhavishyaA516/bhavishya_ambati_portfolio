@@ -6,7 +6,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 import AchievementsSection from "@/components/AchievementsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
-import OpenAIChatbot from "@/components/OpenAIChatbot";
+
 
 const Index = () => {
   return (
@@ -19,7 +19,7 @@ const Index = () => {
       <AchievementsSection />
       <ContactSection />
       <Footer />
-      <OpenAIChatbot />
+    
     </div>
   );
 };
