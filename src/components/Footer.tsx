@@ -70,7 +70,7 @@ const Footer = () => {
             <div className="space-y-2 text-muted-foreground">
               <p>📧 bhavishyaambati1@gmail.com</p>
               <p>📱 +91 9553200849</p>
-              <p>📍 Hyderabad, India</p>
+              <p>📍Andhra Pradesh, India</p>
             </div>
           </div>
         </div>
@@ -79,8 +79,8 @@ const Footer = () => {
         <div className="pt-8 border-t border-border/50">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-muted-foreground text-sm flex items-center gap-2">
-              © {currentYear} Bhavishya Ambati. Made with 
-              <Heart size={16} className="text-primary" />
+              © {currentYear} Bhavishya Ambati.  
+              made with zeal
               and lots of coffee.
             </p>
             <p className="text-muted-foreground text-sm">
