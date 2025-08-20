@@ -120,10 +120,8 @@ const HeroSection = () => {
             </Button>
             <Button onClick={scrollToContact} variant="outline" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-3 text-lg hover-glow">
               Get In Touch
-            </Button>
-            <Button onClick={downloadResume} variant="outline" className="border-accent px-8 py-3 text-lg hover-glow font-bold text-inherit bg-black">
-              <Download size={20} className="mr-2" />
-              Download Resume
+            
+              
             </Button>
           </div>
         </div>
